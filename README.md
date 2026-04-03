@@ -19,3 +19,6 @@
 
 ## 📫 Connect
 - GitHub: https://github.com/darwinr8073-ctrl
+
+## 📊 GitHub Stats
+![Darwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwinr8073-ctrl&show_icons=true&theme=radical)
